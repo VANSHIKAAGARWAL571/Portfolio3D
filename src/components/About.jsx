@@ -41,10 +41,7 @@ const About = () => {
     className='mt-4 text-secondary text-[17px]
     max-w-3xl leading-[30px]'
     >
-      I am a third year Computer Science student doing Bachelor of Technology from ABES Institute of Technology.
-      I am a front-end developer and Cloud Enthusiast with experience in Javascript, HTML, CSS, ReactJS & MySQL.
-      I also have knowledge of C++ & Java. I'm a quick learner and work on creating efficient, scalable &
-      user-friendly solutions. I am a very flexible and goal-oriented person.
+      I’m a full-stack software engineer with 1.5+ years of experience building scalable web applications using React, NestJS, SQL databases, and Java. At Blink Charging, I’ve worked on microfrontend architectures, data reporting modules, and ETL services—driving performance and automation across EV analytics systems. I enjoy solving complex problems and writing clean, efficient code, whether it’s in a production environment or on LeetCode, where I regularly sharpen my skills through competitive programming. Passionate about system design, data flow optimization, and backend engineering, I’m always looking to grow through meaningful challenges and high-impact tech.
     </motion.p>
     <div className='mt-20 flex flex-wrap gap-10'>
       {services.map((service, index)=>(

@@ -33,6 +33,8 @@ import coding from "./company/coding.png";
 import future from "./company/future.png";
 import angular from "./company/angular.png";
 import gdsc from "./company/gdsc.png";
+import blink from "./company/blink.png"
+import innobit from "./company/innobit.png"
 
 import carrent from "./carrent.png";
 import traveladvisor from "./traveladvisor.png";
@@ -40,6 +42,9 @@ import scholify from "./scholify.png";
 import callcenter from "./callcenter.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import postgresql from "./tech/postgresql.png"
+import nestjs from "./tech/nestjs.png"
+
 
 export {
   logo,
@@ -59,6 +64,7 @@ export {
   figma,
   git,
   html,
+  postgresql,
   javascript,
   mongodb,
   nodejs,
@@ -66,6 +72,7 @@ export {
   redux,
   tailwind,
   typescript,
+  nestjs,
   threejs,
   coding,
   future,
@@ -81,4 +88,6 @@ export {
   callcenter,
   jobit,
   tripguide,
+  blink, 
+  innobit
 };
